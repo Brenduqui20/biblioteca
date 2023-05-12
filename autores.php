@@ -146,7 +146,7 @@ if (isset($_POST["btAgregar"])) {
 
         <?php echo $mensaje; ?>
     </div>
-
+<!-- tablas jaja  -->
 
     <div id="tablaAu" class="tablaAu">
         <form method="post" action="autores.php">
